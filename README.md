@@ -3,7 +3,7 @@
 To create a quantum-resistant wallet using lattice-based cryptography instead of traditional ECDSA, ensuring that future quantum computers cannot break private keys.
 
 # Algorithm:
-## Step 1: Understanding Quantum Threat to Blockchain
+## Step 1: Understanding Quantum Threat to Blockchain 
 ECDSA-based wallets are vulnerable to quantum computers.
 
 
